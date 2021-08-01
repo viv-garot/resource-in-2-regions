@@ -13,7 +13,6 @@ Code that creates resource (aws_pvc) in 2 different regions
 ## How to use this repo
 
 - Clone
-- Build
 - Run
 - Cleanup
 
